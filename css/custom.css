@@ -1,0 +1,46 @@
+.custom-search-home .form-group {
+    position: relative;
+}
+
+.custom-search-home .form-group .form-control {
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    background-color: #ffffff;
+    font-size: 14px;
+    height: 50px;
+    width: 190px;
+}   
+
+.custom-search-home .form-group label {
+    background-color: #ffffff;
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    right: 1px;
+    text-align: center;
+    top: 5px;
+    width: 40px;
+}   
+
+.custom-search-home .form-group label span {
+    font-size: 18px;
+} 
+
+/* List */
+
+section{
+    padding: 10px 0;
+}
+
+.breadcrumb_content.style2{
+    margin-bottom: 0;
+}
+
+.custom-search-list{
+    margin: 0 0 20px -5px;
+}
+
+.custom-menu-list{
+    margin: 0 0 20px -5px;
+}
